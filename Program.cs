@@ -71,15 +71,6 @@ namespace OOPTask1A
                 else
                     stillMore = false;
             } while (stillMore);
-
-            //Console.WriteLine("Given loan was {0:F2}.", amountOfLoad);
-            //Console.WriteLine("Annual intrest rate was {0:F3}.", annualIntrestRate);
-            //Console.WriteLine("Number of years was {0}.", numberOfYears);
-            //Console.WriteLine("Number of monthss was {0}.", numberOfPayments);
-            //Console.WriteLine("Monthly intrest rate was {0:F4}.", monthlyIntrestRate);
-            //Console.WriteLine("Monthly payment was {0:F2} euros.", monthlyPayment);
-            //Console.WriteLine("You will pay in total {0:F2} euros.", totalPaymentPaid);
-            //Console.WriteLine("You will pay intrest in total {0:F2} euros.", totalIntrestPaid);
         }
     }
 }
